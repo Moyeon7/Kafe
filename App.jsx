@@ -3,7 +3,7 @@ import React from 'react';
 
 const App = () => {
   return (
-    <View className='bg-black w-full h-full'>
+    <View className='bg-black w-full'>
       <Text>Hello</Text>
     </View>
   );
